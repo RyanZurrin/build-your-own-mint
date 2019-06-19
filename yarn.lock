@@ -639,10 +639,10 @@ pify@^4.0.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
 
-plaid@^2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/plaid/-/plaid-2.10.0.tgz#ec79d2999433ce381946833bf44c167880ac0419"
-  integrity sha512-9eav3N0t64N7tvTf2HNNS8uTbdIdbIzL6KanjBgaMoMr4GIQG3LDpncy359OJxAEC2A8TUykjoPEyVUUrie0+A==
+plaid@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/plaid/-/plaid-4.1.0.tgz#2981039450559fbeb009be26e661a406dcc5cfdd"
+  integrity sha512-ftZETDtP6OP+vOucSmM3F+eQ/LGxkTFZ/65rl2f1hlwsjLnT36Fi0QWCNB62qZKaDJrnBT7km/x/0tUC7zb9HQ==
   dependencies:
     "@types/node" "9.x"
     "@types/request" "0.0.36"
