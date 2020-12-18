@@ -18,6 +18,6 @@
     "fs-extra": "^7.0.1",
     "googleapis": "27",
     "moment": "^2.23.0",
-    "plaid": "^2.10.0"
+    "plaid": "^8.1.1"
   }
 }
